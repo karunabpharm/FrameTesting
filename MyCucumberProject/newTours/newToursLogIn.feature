@@ -1,0 +1,13 @@
+Feature: NewTours LogIn Funcationality Testing
+Scenario Outline: Validating LogIn Funcationality
+
+Given Open FireFox Browser and Navigate to NewTours Application
+When User enters Valid "<UserName>" and Valid "<Password>" and click on SignIn button
+Then User should be able to successfully LogiIn and close the Applciation
+
+Examples:
+ |   UserName  |   Password   |
+ |   tutorial  |   tutorial   |
+ |   admin     |   mercury    |
+ 
+ 

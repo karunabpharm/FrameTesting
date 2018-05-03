@@ -1,0 +1,495 @@
+2018-04-17 18:56:54,972 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-19 15:17:04,367 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-19 17:57:24,534 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-21 17:06:28,450 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-22 13:31:05,496 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-23 18:23:03,106 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-25 16:18:28,337 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-25 18:35:54,527 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-25 19:36:38,902 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-28 15:08:06,076 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-29 22:35:39,990 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-30 18:36:02,719 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-30 18:41:21,326 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml
+2018-04-30 18:41:22,883 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 18:41:23,452 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2018-04-30 18:41:23,461 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2018-04-30 18:41:23,595 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-04-30 18:41:25,240 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:41:25,241 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:41:25,244 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:41:25,244 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:41:52,245 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:41:52,246 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:41:52,248 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:41:52,248 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:42:12,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:42:12,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:42:12,455 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:42:12,456 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:45:37,332 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 18:45:38,641 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:45:38,642 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:45:38,646 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:45:38,647 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:45:40,586 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:45:40,588 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:45:40,591 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:45:40,592 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:46:10,336 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-30 18:46:10,921 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 18:46:11,518 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2018-04-30 18:46:11,521 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2018-04-30 18:46:11,822 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-30 18:46:12,288 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:46:12,288 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:46:12,294 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:46:12,295 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:47:12,082 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 18:47:12,997 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.pom
+2018-04-30 18:47:13,060 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.pom
+2018-04-30 18:47:13,162 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.jar
+2018-04-30 18:47:13,434 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.10/testng-6.10.jar
+2018-04-30 18:47:13,908 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:47:13,910 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:47:13,913 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:47:13,915 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:47:15,332 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:47:15,333 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:47:15,335 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:47:15,336 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:47:48,992 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-30 18:47:49,466 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 18:47:49,894 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2018-04-30 18:47:49,898 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2018-04-30 18:47:50,076 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-30 18:47:50,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:47:50,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:47:50,422 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:47:50,422 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:48:20,975 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:48:20,975 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:48:20,979 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:48:20,981 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:54:09,113 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:54:09,114 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:54:09,115 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:54:09,116 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:55:01,290 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:55:01,290 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:55:01,294 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:55:01,295 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:56:46,611 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:56:46,612 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:56:46,617 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:56:46,618 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:57:10,802 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:57:10,803 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:57:10,805 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:57:10,806 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:58:18,316 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:58:18,316 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:58:18,318 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:58:18,319 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 18:59:15,556 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:59:15,557 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 18:59:15,562 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 18:59:15,563 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:01:43,618 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:01:43,618 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 19:01:43,621 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:01:43,622 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:02:13,949 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:02:13,949 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 19:02:13,951 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:02:13,952 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:03:14,568 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-30 19:03:15,320 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 19:03:16,021 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2018-04-30 19:03:16,023 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2018-04-30 19:03:16,262 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-30 19:03:21,139 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:03:21,140 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 19:03:21,143 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:03:21,144 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:03:36,819 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\karuna\Desktop\TestingScripts\MyMavenProject
+2018-04-30 19:03:36,823 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2018-04-30 19:03:45,158 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:03:45,159 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 19:03:45,162 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:03:45,163 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:04:03,818 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-30 19:04:04,282 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\pom.xml.
+2018-04-30 19:04:04,717 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2018-04-30 19:04:04,719 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2018-04-30 19:04:04,947 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-30 19:04:09,848 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:04:09,848 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 19:04:09,851 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:04:09,852 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:04:21,481 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\karuna\Desktop\TestingScripts\MyMavenProject
+2018-04-30 19:04:21,483 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2018-04-30 19:04:40,146 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:04:40,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-04-30 19:04:40,151 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:04:40,152 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-04-30 19:08:53,171 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\pom.xml
+2018-04-30 19:08:53,299 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyCucumberProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\pom.xml.
+2018-04-30 19:08:53,394 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyCucumberProject/src/main/java
+2018-04-30 19:08:53,404 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyCucumberProject/src/test/java
+2018-04-30 19:08:53,483 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2018-04-30 19:09:01,101 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:09:01,102 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:09:01,105 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:09:01,105 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:09:10,971 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:09:10,971 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:09:10,972 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:09:10,974 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:09:22,235 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:09:22,236 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:09:22,239 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:09:22,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:11:54,041 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewToursLogInTest:MyCucumberProject:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\pom.xml.
+2018-04-30 19:11:55,264 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:11:55,264 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:11:55,266 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:11:55,267 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:12:01,343 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:12:01,343 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:12:01,346 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:12:01,347 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:12:27,490 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:12:27,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:12:27,495 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:12:27,496 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:12:51,831 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:12:51,831 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:12:51,833 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:12:51,834 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:13:13,065 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:13:13,066 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:13:13,067 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:13:13,067 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:13:27,890 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:13:27,891 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:13:27,893 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:13:27,894 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:14:53,030 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:14:53,030 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:14:53,032 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:14:53,034 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:15:04,762 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:15:04,763 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:15:04,765 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:15:04,766 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:18:28,101 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:18:28,102 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:18:28,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:18:28,106 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:19:23,636 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:19:23,636 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:19:23,639 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:19:23,640 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:19:43,390 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:19:43,390 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:19:43,394 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:19:43,395 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:26:00,383 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:26:00,385 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:26:00,387 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:26:00,389 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:26:19,732 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:26:19,734 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:26:19,736 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:26:19,737 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:27:18,707 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:27:18,707 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:27:18,709 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:27:18,709 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:28:48,466 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:28:48,466 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:28:48,468 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:28:48,469 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:31:25,152 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:31:25,152 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:31:25,154 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:31:25,155 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:35:53,684 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:35:53,685 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-04-30 19:35:53,687 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:35:53,687 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-04-30 19:42:56,728 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-30 19:46:53,512 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\karuna\Desktop\TestingScripts\selectProduct\pom.xml
+2018-04-30 19:46:54,604 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Argos:selectProduct:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\selectProduct\pom.xml.
+2018-04-30 19:46:55,324 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selectProduct/src/main/java
+2018-04-30 19:46:55,338 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selectProduct/src/test/java
+2018-04-30 19:46:55,482 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-04-30 19:46:56,050 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:46:56,050 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:46:56,053 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:46:56,053 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:47:26,434 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:47:26,434 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:47:26,450 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:47:26,450 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:47:34,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:47:34,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:47:34,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:47:34,776 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:50:02,729 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:50:02,729 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:50:02,729 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:50:02,729 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:51:02,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:51:02,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:51:02,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:51:02,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:51:18,131 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:51:18,131 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:51:18,131 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:51:18,131 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:51:42,080 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:51:42,080 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:51:42,080 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:51:42,080 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:53:11,002 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:53:11,002 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:53:11,002 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:53:11,002 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:53:29,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:53:29,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:53:29,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:53:29,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:54:09,844 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:54:09,844 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:54:09,846 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:54:09,848 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:55:34,750 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.Argos:selectProduct:0.0.1-SNAPSHOT @ C:\Users\karuna\Desktop\TestingScripts\selectProduct\pom.xml.
+2018-04-30 19:55:35,956 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:55:35,956 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:55:35,956 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:55:35,956 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:55:37,904 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:55:37,905 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:55:37,907 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:55:37,908 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:57:24,799 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:57:24,799 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:57:24,799 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:57:24,799 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:57:34,405 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:57:34,405 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:57:34,405 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:57:34,421 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 19:58:54,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:58:54,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 19:58:54,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 19:58:54,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:00:43,535 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:00:43,535 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:00:43,535 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:00:43,551 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:03:38,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:03:38,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:03:38,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:03:38,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:04:34,403 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:04:34,403 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:04:34,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:04:34,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:10:25,633 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:10:25,633 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:10:25,633 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:10:25,633 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:12:16,130 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:12:16,131 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:12:16,134 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:12:16,135 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:13:53,816 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:13:53,816 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:13:53,832 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:13:53,832 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:17:43,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:17:43,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:17:43,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:17:43,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:21:07,805 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:21:07,805 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:21:07,805 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:21:07,820 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-04-30 20:23:27,557 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:23:27,557 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-04-30 20:23:27,573 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-30 20:23:27,573 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 13:00:09,256 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-01 13:53:27,931 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 13:53:27,932 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 13:53:27,935 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 13:53:27,935 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 13:55:06,584 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 13:55:06,584 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 13:55:06,585 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 13:55:06,585 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 14:55:47,142 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 14:55:47,144 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 14:55:47,146 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 14:55:47,147 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 14:57:17,198 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 14:57:17,199 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 14:57:17,201 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 14:57:17,202 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:00:48,832 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:00:48,833 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:00:48,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:00:48,835 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:05:57,401 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:05:57,417 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:05:57,417 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:05:57,417 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:06:47,782 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:06:47,783 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:06:47,785 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:06:47,786 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:06:55,421 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:06:55,422 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:06:55,423 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:06:55,424 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:07:31,339 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:07:31,339 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:07:31,339 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:07:31,339 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:11:35,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:11:35,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:11:35,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:11:35,916 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:12:25,613 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:12:25,613 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:12:25,614 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:12:25,614 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:13:39,738 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:13:39,742 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:13:39,746 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:13:39,747 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:15:16,431 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:15:16,431 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:15:16,433 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:15:16,434 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:18:00,251 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:18:00,251 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:18:00,251 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:18:00,251 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:20:13,163 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:20:13,163 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:20:13,165 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:20:13,165 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:22:14,852 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:22:14,853 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:22:14,856 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:22:14,856 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:24:31,022 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:24:31,026 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:24:31,028 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:24:31,028 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:25:49,359 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:25:49,360 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:25:49,363 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:25:49,367 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:49:06,291 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:49:06,292 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:49:06,293 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:49:06,294 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:50:19,915 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:50:19,917 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:50:19,919 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:50:19,920 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:51:32,839 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:51:32,839 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:51:32,840 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:51:32,841 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:52:50,825 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:52:50,826 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:52:50,828 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:52:50,829 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:53:00,167 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:53:00,167 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:53:00,169 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:53:00,170 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:53:47,748 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:53:47,748 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:53:47,750 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:53:47,751 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:54:45,917 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:54:45,917 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:54:45,918 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:54:45,920 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 15:56:12,941 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:56:12,942 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 15:56:12,944 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 15:56:12,945 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 16:08:33,242 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 16:08:33,243 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 16:08:33,244 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 16:08:33,245 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 17:16:20,544 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-01 17:16:27,666 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 17:16:27,668 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-05-01 17:16:27,671 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 17:16:27,671 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-05-01 17:25:47,455 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-01 17:25:56,609 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 17:25:56,609 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-05-01 17:25:56,614 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 17:25:56,614 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-05-01 17:45:25,604 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 17:45:25,607 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 17:45:25,608 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 17:45:25,609 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 18:20:35,272 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-01 18:23:53,238 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:23:53,239 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 18:23:53,242 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:23:53,242 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 18:24:56,330 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:24:56,330 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 18:24:56,332 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:24:56,332 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-01 18:54:56,809 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-01 18:55:09,776 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:55:09,777 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-05-01 18:55:09,780 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:55:09,781 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-05-01 18:55:10,267 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:55:10,268 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-05-01 18:55:10,270 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:55:10,272 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-05-01 18:55:11,069 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:55:11,071 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-01 18:55:11,074 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-01 18:55:11,074 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-02 18:54:33,634 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-02 18:54:47,459 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-02 18:54:47,460 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-05-02 18:54:47,464 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-02 18:54:47,464 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-05-02 18:54:47,938 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-02 18:54:47,939 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-05-02 18:54:47,940 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-02 18:54:47,941 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-05-02 18:54:48,906 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-02 18:54:48,908 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-02 18:54:48,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-02 18:54:48,912 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources
+2018-05-03 16:32:41,859 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-03 16:32:51,972 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 16:32:51,973 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\main\resources
+2018-05-03 16:32:51,975 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 16:32:51,976 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyCucumberProject\src\test\resources
+2018-05-03 16:32:52,458 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 16:32:52,459 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\main\resources
+2018-05-03 16:32:52,460 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 16:32:52,461 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\MyMavenProject\src\test\resources
+2018-05-03 16:32:53,012 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 16:32:53,014 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\main\resources
+2018-05-03 16:32:53,016 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 16:32:53,017 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\karuna\Desktop\TestingScripts\selectProduct\src\test\resources

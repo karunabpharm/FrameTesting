@@ -1,0 +1,10 @@
+Feature: Search For Produch Puma
+Scenario Outline:Checking Customer Review
+
+Given Open FireFox Browser and Navigate to Argos Home Page
+When User enter product in Searchbox i can see Respective Products
+And user can See Customer Reviews 
+Then User should be Validate Reviews Rating
+
+Example 
+  

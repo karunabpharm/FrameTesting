@@ -1,0 +1,11 @@
+Feature: FaceBook Login Functionality Testing
+Scenario: Validating Login Functionality
+Given Open Chrome Browser and Navigate to FaceBook Home Page
+When User Enter Valid <"UserId>" ,"<PassWord>" And Click
+Then user Can see FaceBook Home Page
+
+Examples:
+| karunabpharm|07429186166Kk|
+| karunabpharm@gmail.com|07429186166Kk|
+
+ 

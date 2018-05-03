@@ -1,0 +1,30 @@
+package com.Argos.selectProduct;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class SearchOption {
+	ChromeDriver driver;
+	@Given("^Open FireFox Browser and Navigate to Argos$")
+	public void open_FireFox_Browser_and_Navigate_to_Argos() throws Throwable {
+		driver=new ChromeDriver();
+		driver.get("http://argos.com");
+		
+	   
+	}
+
+	@When("^I enter the product \"([^\"]*)\"$")
+	public void i_enter_the_product(String arg1) throws Throwable {
+	   
+	}
+
+	@Then("^I should see respective product$")
+	public void i_should_see_respective_product() throws Throwable {
+	   
+	}
+
+
+}

@@ -1,0 +1,7 @@
+Feature: Search For Produch Puma
+Scenario Outline:Checking Customer Review
+
+Given Open FireFox Browser and Navigate to NewTours Application
+When User enters Valid "<UserName>" and Valid "<Password>" and click on SignIn button
+Then User should be able to successfully LogiIn and close the Applciation
+  
